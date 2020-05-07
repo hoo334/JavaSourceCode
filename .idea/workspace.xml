@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="750e3379-a39f-4cd2-b968-31bb4deaab85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/lang/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/lang/Object.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ze4xKACmMCSMdmLSk3dqzjy3NV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaNotes" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaSourceCode\src\com\sun" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HashMapTest">
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.hashmap.HashMapTest" />
+      <module name="JavaSourceCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="hoo.Main" />
+      <module name="JavaSourceCode" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashMapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="750e3379-a39f-4cd2-b968-31bb4deaab85" name="Default Changelist" comment="" />
+      <created>1585186470597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585186470597</updated>
+      <workItem from="1585186649806" duration="440000" />
+      <workItem from="1585189820834" duration="1659000" />
+      <workItem from="1585191721930" duration="615000" />
+      <workItem from="1586600880629" duration="920000" />
+      <workItem from="1586611039916" duration="3000" />
+      <workItem from="1586698588732" duration="320000" />
+      <workItem from="1586700603311" duration="86000" />
+      <workItem from="1586747893162" duration="3000" />
+      <workItem from="1586868130545" duration="5395000" />
+      <workItem from="1586914208979" duration="8000" />
+      <workItem from="1586938051137" duration="1207000" />
+      <workItem from="1586941655963" duration="70000" />
+      <workItem from="1586941751045" duration="140000" />
+      <workItem from="1586941903035" duration="4033000" />
+      <workItem from="1586946849367" duration="226000" />
+      <workItem from="1587175108166" duration="770000" />
+      <workItem from="1587262460694" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="157" key="FileChooserDialogImpl" timestamp="1586946254316">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="473" y="157" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1586946254316" />
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom" timestamp="1585191485626">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1585191485626" />
+    <state width="1506" height="213" key="GridCell.Tab.0.center" timestamp="1585191485626">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1585191485626" />
+    <state width="1506" height="213" key="GridCell.Tab.0.left" timestamp="1585191485626">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1585191485626" />
+    <state width="1506" height="213" key="GridCell.Tab.0.right" timestamp="1585191485626">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="213" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1585191485626" />
+    <state width="1506" height="264" key="GridCell.Tab.1.bottom" timestamp="1585191485623">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1585191485623" />
+    <state width="1506" height="264" key="GridCell.Tab.1.center" timestamp="1585191485622">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1585191485622" />
+    <state width="1506" height="264" key="GridCell.Tab.1.left" timestamp="1585191485622">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1585191485622" />
+    <state width="1506" height="264" key="GridCell.Tab.1.right" timestamp="1585191485622">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1585191485622" />
+    <state x="248" y="74" key="SettingsEditor" timestamp="1586941890342">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="248" y="74" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1586941890342" />
+    <state width="925" height="517" key="documentation.popup.size" timestamp="1586873329277">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="925" height="517" key="documentation.popup.size/0.0.1549.831@0.0.1549.831" timestamp="1586873329277" />
+    <state width="923" height="515" key="javadoc.popup.new" timestamp="1586872465767">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="923" height="515" key="javadoc.popup.new/0.0.1549.831@0.0.1549.831" timestamp="1586872465767" />
+    <state x="410" y="102" width="842" height="692" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586698906358">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="410" y="102" width="842" height="692" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1549.831@0.0.1549.831" timestamp="1586698906358" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/hashmap/HashMapTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
